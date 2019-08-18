@@ -64,7 +64,7 @@ For more detail:please read dsdv.ppt .
 
  test1:
 
-![1561776012733](D:\IDEA\project\dsdv\assets\1561776012733.png)
+![1561776012733](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776012733.png)
 
 topology Structure representing in  json file as follows:
 
@@ -131,11 +131,11 @@ topology Structure representing in  json file as follows:
 }
 ```
 
-![1561776137186](D:\IDEA\project\dsdv\assets\1561776137186.png)
+![1561776137186](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776137186.png)
 
 test2:
 
-![1561776195929](D:\IDEA\project\dsdv\assets\1561776195929.png)
+![1561776195929](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776195929.png)
 
 in piture above,all the line representing  single direction are double directions,and the topology structure are presenting in the .csv file,which are as follows:
 
@@ -146,11 +146,11 @@ in piture above,all the line representing  single direction are double direction
 | E,1,11345 |           | E,1,11345 | F,1,12415 | C,1,12245 | D,1,12145 |
 | F,2,12415 |           |           |           |           |           |
 
-![1561777600918](D:\IDEA\project\dsdv\assets\1561777600918.png)
+![1561777600918]https://github.com/liudongdong1/DSDV/blob/master/assets/1561777600918.png)
 
-!1561776708704](D:\IDEA\project\dsdv\assets\1561776708704.png)
+!1561776708704](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776708704.png)
 
-![1561776718581](D:\IDEA\project\dsdv\assets\1561776718581.png)
+![1561776718581](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776718581.png)
 
 
 
@@ -158,6 +158,6 @@ in piture above,all the line representing  single direction are double direction
 
 Damping Fluctuations
 
-![1561776905301](D:\IDEA\project\dsdv\assets\1561776905301.png)
+![1561776905301](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776905301.png)
 
-![1561776922299](D:\IDEA\project\dsdv\assets\1561776922299.png)
+![1561776922299](https://github.com/liudongdong1/DSDV/blob/master/assets/1561776922299.png)
